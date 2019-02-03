@@ -154,7 +154,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
-    <option name="y" value="-39" />
+    <option name="y" value="-40" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -227,8 +227,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549167542261" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Spring-Boot-Community-Web-step1" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549174956276" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
@@ -292,19 +292,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BootWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="com.web.community.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.web.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.controller.BootWebApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="com.web.community.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.BootWebApplication" />
@@ -315,7 +302,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JpaMappingTest.제대로_생성_됐는지_테스트" />
-        <item itemvalue="Spring Boot.BootWebApplication" />
         <item itemvalue="JUnit.JpaMappingTest" />
       </list>
     </recent_temporary>
